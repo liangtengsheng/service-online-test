@@ -20,7 +20,7 @@
 wget -O /root/service-online-test.sh https://github.com/liangtengsheng/service-online-test/raw/refs/heads/main/service-online-test.sh
 ```
 
-2、添加测试域名：**URL="https://"**
+2、添加测试域名：**URL="https://你的域名/"**
 
 3、添加执行权限
 
