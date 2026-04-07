@@ -46,7 +46,7 @@ crontab -e
 /etc/init.d/cron restart
 ```
 
-7、手动执行一次来测试
+7、手动执行一次来测试，日志文件内有内容即成功
 
 ```
 /root/service-online-test.sh
