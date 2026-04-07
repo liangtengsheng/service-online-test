@@ -1,4 +1,4 @@
-# service-online-test
+# service-online-test项目详情
 
 ## 作用：利用Cloudflare的Workers项目测试服务是否能从外网访问
 
@@ -15,6 +15,10 @@
 ### 服务端上操作：（以openwrt为例）
 
 1、在/root目录下下载service-online-test.sh文件
+
+```
+wget -O /root/service-online-test.sh https://github.com/liangtengsheng/service-online-test/raw/refs/heads/main/service-online-test.sh
+```
 
 2、添加测试域名：**URL="https://"**
 
